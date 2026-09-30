@@ -1,6 +1,6 @@
-# Cart-Pole Inverted Pendulum: Dynamics & Control System Design
+# 🛰️ Cart-Pole Inverted Pendulum: Dynamics & Control System Design
 
-## Overview
+## 📝 Overview
 This project was developed for the **Aerospace Systems Analysis and Simulation** course (BSc in Aerospace Engineering) at Politecnico di Milano. 
 
 The objective was to derive the mathematical model of a cart-pole system and design a control architecture to stabilize the pendulum in its unstable upright position. The analysis bridges theoretical control design with real-world physical constraints.
